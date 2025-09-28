@@ -194,5 +194,5 @@ You should see:
   - `EC2_SSH_KEY` → private key  
 
 ### 4. Firewall/Security Group Issues
-- Ensure EC2 **Security Group** allows inbound traffic on port `22` (SSH) and `8080ZZZ` (HTTP).
+- Ensure EC2 **Security Group** allows inbound traffic on port `22` (SSH) and `8080` (HTTP).
 
